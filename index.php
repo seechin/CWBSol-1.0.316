@@ -40,6 +40,10 @@ echo ('<h4>&#9678 A tutorial</h4>
 </p>
 '."\n");
 
+    echo ('<h4>&#9678 Licence</h4>
+  <p>3DRISM-HI is free software for non-commercial use. You can use, modify or redistribute for non-commercial purposes under the terms of the <a href="GPL3LICENCE.txt">GNU General Public License version 3</a>.</p>
+'."\n");
+
     echo ('</div>'."\n");
 
     echo ('<div class="container">'."\n");
