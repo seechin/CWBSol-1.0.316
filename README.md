@@ -1,3 +1,5 @@
+![logo_512.png](https://github.com/seechin/CWBSol/blob/main/images/logo_512.png?raw=true)
+
 # CWBSol
 
 CWBSol 1.0.313, (c) 2022 Cao Siqin
