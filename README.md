@@ -1,8 +1,6 @@
-# 3DRISMHI
+# CWBSol
 
-The original release of 3DRISM-HI
-
-3DRISMHI 1.0.313, (c) 2022 Cao Siqin
+CWBSol 1.0.313, (c) 2022 Cao Siqin
 
 # Licence
 
