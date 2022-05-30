@@ -1,4 +1,4 @@
-![logo_512.png](https://github.com/seechin/CWBSol/blob/main/images/logo_512.png?raw=true)
+![logo_256.png](https://github.com/seechin/CWBSol/blob/main/images/logo_256.png?raw=true)
 
 # CWBSol
 
