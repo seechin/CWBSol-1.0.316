@@ -80,6 +80,11 @@
             if (file_exists('solute/'.$solutefilename)){
                 echo ('<b>solute/'.$solutefilename.' successfully generated from '.$top.'</b>'."\n");
                 echo (shell_exec("cat ".'solute/'.$solutefilename));
+              // do IDC
+                $idcsolutefilename = $solutename.".idc.solute";
+                if (file_exists('./src/rismhi3d/code-rismhi3d/generate-sigma-shrinking-2.sh')){
+                    shell_exec("bash ./src/rismhi3d/code-rismhi3d/generate-sigma-shrinking-2.sh solute/".$solutefilename.' > solute/'.$idcsolutefilename);
+                }
             }
             echo("</pre>\n");
         }
