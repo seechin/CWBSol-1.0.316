@@ -4,7 +4,7 @@ CWBSol 1.0.315
 
 # Licence
 
-CWBSol is the graphic interface of 3DRISM-HI (https://github.com/seechin/3DRISMHI).
+CWBSol is the graphic interface to perform 3DRISM and HI.
 
 3DRISM-HI is free software for non-commercial use. You can use, modify or redistribute for non-commercial purposes under terms of the GNU General Public (GPL) License version 3 as published by the Free Software Foundation. A GNU GPL3 Licence is attached to this program.
 
