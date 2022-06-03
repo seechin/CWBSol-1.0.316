@@ -1,6 +1,6 @@
 ![logo_256.png](https://github.com/seechin/CWBSol/blob/main/images/logo_256.png?raw=true)
 
-CWBSol 1.0.313, (c) 2022 Cao Siqin
+CWBSol 1.0.315
 
 # Licence
 
