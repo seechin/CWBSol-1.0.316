@@ -14,10 +14,6 @@
     O1      tip3p   1   1   -0.834000    0.315061    0.636386
     H2      tip3p   2   2    0.417000    0.123635    0.063639
     H3      tip3p   3   2    0.417000    0.123635    0.063639
-# == Reverse engineering from AMBER 1D-RISM setup, wrong params ===========
-#   O1      tip3p   1   1   -0.834000    0.353660    0.635968
-#   H2      tip3p   2   2    0.417000    0.138775    0.0635968
-#   H3      tip3p   3   2    0.417000    0.138775    0.0635968
 [zeta]
     tip3p   tip3p   0.288   -40 kJ/mol
 [bond]
