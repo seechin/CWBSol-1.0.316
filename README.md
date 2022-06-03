@@ -24,7 +24,7 @@ php -S YOUR_IP_ADDRESS:A_PORT -t CWBSOL_ROOT_FOLDER
 
 e.g.: php -S 127.0.0.1:8080 -t $HOME/Downloads/CWBSol-master
 
-# Install the tools of CWBSol
+# Install the components of CWBSol
 
 3DRISM-HI requires FFTW (double precision) to do FFT. Other optional libraries include ZLIB and GROMACS, which are used for data compression (ZLIB) and XTC processing (GROMACS).
 
