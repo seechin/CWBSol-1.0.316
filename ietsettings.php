@@ -131,8 +131,8 @@
 
         $exec .= " -cmd ";
         if (!empty($set->closure    )) $exec .= " closure=".$set->closure    ;
-        if (!empty($set->steprism) && $set->steprism>0) $exec .= " rism,step=".$set->steprism   ;
         if (!empty($set->stephi) && $set->stephi>0) $exec .= " hi,step=".$set->stephi     ;
+        if (!empty($set->steprism) && $set->steprism>0) $exec .= " rism,step=".$set->steprism   ;
         if (!empty($set->report) && $set->report != 0){
             $exec .= $set->display=="table"?" report":" display";
             $exec .= ":mass".($set->report&1?",N,N0,volume":"").($set->report&2?",TS":"").($set->report&4?",lj":"").($set->report&8?",coul":"").($set->report&16?",Hef0":"");
